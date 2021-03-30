@@ -1,2 +1,2 @@
 # 2020-05-20
-[在线查看 link](http://ymtonny.cn/520)
+<a href="http://ymtonny.cn/520" target="_blank">在线查看</a>
